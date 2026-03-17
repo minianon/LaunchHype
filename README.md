@@ -1,4 +1,4 @@
-# LaunchHype 🚀
+# LaunchHype
 
 > **Hype up your launch in 30 seconds.**
 
